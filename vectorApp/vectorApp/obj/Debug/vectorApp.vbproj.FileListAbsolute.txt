@@ -1,0 +1,12 @@
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\obj\Debug\vectorApp.vbproj.AssemblyReference.cache
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\obj\Debug\vectorApp.frmUtama.resources
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\obj\Debug\vectorApp.Resources.resources
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\obj\Debug\vectorApp.vbproj.GenerateResource.cache
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\obj\Debug\vectorApp.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\bin\Debug\vectorApp.exe.config
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\bin\Debug\vectorApp.exe
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\bin\Debug\vectorApp.pdb
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\bin\Debug\vectorApp.xml
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\obj\Debug\vectorApp.exe
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\obj\Debug\vectorApp.xml
+D:\Kuliah\Semester 6\ProgDesktop\11\latihan\vectorApp\vectorApp\obj\Debug\vectorApp.pdb
